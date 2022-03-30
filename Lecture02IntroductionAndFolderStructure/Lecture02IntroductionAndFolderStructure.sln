@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture02IntroductionAndFolderStructure", "Lecture02IntroductionAndFolderStructure\Lecture02IntroductionAndFolderStructure.csproj", "{F27ACA1F-3899-438B-B9E2-D540CFD292A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture02IntroductionAndFolderStructure", "Lecture02IntroductionAndFolderStructure\Lecture02IntroductionAndFolderStructure.csproj", "{347E33AC-2B33-4A12-AC2A-61A690B55AE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F27ACA1F-3899-438B-B9E2-D540CFD292A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F27ACA1F-3899-438B-B9E2-D540CFD292A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F27ACA1F-3899-438B-B9E2-D540CFD292A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F27ACA1F-3899-438B-B9E2-D540CFD292A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347E33AC-2B33-4A12-AC2A-61A690B55AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347E33AC-2B33-4A12-AC2A-61A690B55AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347E33AC-2B33-4A12-AC2A-61A690B55AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347E33AC-2B33-4A12-AC2A-61A690B55AE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {54C1F0D5-5B37-46DA-B4BF-CF4992D7D467}
+		SolutionGuid = {EBD1B3DD-BFA3-4E1C-A40E-CFC9DB020FCB}
 	EndGlobalSection
 EndGlobal
