@@ -1,0 +1,29 @@
+﻿
+@{
+	ViewBag.Title = "IndexViewData";
+}
+
+<h2>IndexViewData</h2>
+
+
+
+
+
+<h1> @ViewData["Name"] </h1>
+<h1> @ViewData["Class"] </h1>
+<h1> @ViewData["Subject"] </h1>
+
+
+@foreach (var item in (List<string>) ViewData["obj"])
+{
+
+
+	<li>
+		@item
+
+	</li>
+
+
+}
+
+
