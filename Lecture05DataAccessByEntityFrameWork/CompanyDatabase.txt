@@ -1,0 +1,24 @@
+-- for create databse
+create database Company
+
+
+-- for use database
+use Company
+-- for create table 
+create table info(
+-- identity auto increment primary key not null
+Id int identity(1,1) primary key not null,
+Name nvarchar(50),
+des varchar(10),
+Salary int
+
+) 
+insert into info(Name,des,Salary)values('Laiba','faculty',100000)
+insert into info(Name,des,Salary)values('Misbah','faculty',100000)
+insert into info(Name,des,Salary)values('Harryson','faculty',100000)
+insert into info(Name,des,Salary)values('anas','faculty',100000)
+select * from info 
+
+
+
+
