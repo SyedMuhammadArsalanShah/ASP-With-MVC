@@ -1,0 +1,19 @@
+-- for create databse
+create database Teachers
+
+
+-- for use database
+use Teachers
+-- for create table 
+create table info(
+-- identity auto increment primary key not null
+Id int identity(1,1) primary key not null,
+Name nvarchar(50),
+Salary int,
+Contact nvarchar(50),
+)
+
+insert into info(Name,Salary,Contact)values('Laiba',100000,0300)
+insert into info(Name,Salary,Contact)values('Anas',1000,0300)
+insert into info(Name,Salary,Contact)values('Adnan',200000,0301)
+

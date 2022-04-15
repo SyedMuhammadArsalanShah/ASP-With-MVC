@@ -8,6 +8,8 @@ namespace Lecture05DataAccessByEntityFrameWork.Models
 {
     public class CompanyContext : DbContext
     {
+
         public DbSet<Company> companies { get; set; }
+       
     }
 }
