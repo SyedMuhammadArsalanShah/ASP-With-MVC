@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture07CodeFirstApproach", "Lecture07CodeFirstApproach\Lecture07CodeFirstApproach.csproj", "{A43DC473-EE64-49D8-B2BB-1052D970FE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43DC473-EE64-49D8-B2BB-1052D970FE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43DC473-EE64-49D8-B2BB-1052D970FE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43DC473-EE64-49D8-B2BB-1052D970FE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43DC473-EE64-49D8-B2BB-1052D970FE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B8A03B-DBF5-4701-97B0-EEF1A4D5ECDF}
+	EndGlobalSection
+EndGlobal

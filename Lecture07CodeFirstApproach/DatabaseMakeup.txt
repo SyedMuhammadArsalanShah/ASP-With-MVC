@@ -1,0 +1,6 @@
+-- for create databse
+create database Makeup
+
+
+-- for use database
+use Makeup
