@@ -1,0 +1,120 @@
+Data Annotations are nothing but certain validations that we put in our models to validate the input from the user. ASP.NET MVC provides a unique feature in which we can validate the models using the Data Annotation attribute. Import the following namespace to use data annotations in the application.
+
+System.ComponentModel.DataAnnotations
+
+It is very easy to use and the code becomes much cleaner as compared to normal ASP.NET validators.
+
+Let us understand some of the validator attributes that we can use in MVC.
+
+Types of Data Annotations in ASP.NET MVC
+ 
+Required
+This attribute specifies that the value is mandatory and cannot be skipped.
+
+Syntax
+
+[Required(ErrorMessage="Please enter name"),MaxLength(30)]
+
+DataType
+This attribute is used to specify the datatype of the model.
+
+Syntax
+
+[DataType(DataType.Text)]
+
+Range
+Using this attribute we can set a range between two numbers.
+
+Syntax
+
+[Range(100,500,ErrorMessage="Please enter correct value")]
+
+StringLength
+Using this attribute we can specify maximum and minimum length of the property.
+
+Syntax
+
+[StringLength(30,ErrorMessage="Do not enter more than 30 characters")]
+
+DisplayName
+Using this attribute we can specify property name to be displayed on view.
+
+Syntax
+
+[Display(Name="Student Name")]
+
+MaxLength
+Using this attribute we can specify maximum length of property.
+
+Syntax
+
+[MaxLength(3)]
+
+Bind
+This attribute specifies fields to include or exclude for model binding.
+
+Syntax
+
+[Bind(Exclude = "StudentID")]
+
+DisplayFormat
+This attribute allows us to set date in the format specified as per the attribute.
+
+Syntax
+
+[DisplayFormat(DataFormatString = "{0:dd.MM.yyyy}")]
+
+RegularExpression
+We can set a regex pattern for the property. For ex: Email ID.
+
+Syntax
+
+[RegularExpression(@"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$", ErrorMessage = "Email is not valid.")]
+
+
+
+
+
+
+source code
+public class Student
+   [key]  
+   [ScaffoldColumn(false)]
+   publicintStudentID { get; set; }
+   [DataType(DataType.Text)]
+   [Required(ErrorMessage = "Please enter name"), MaxLength(30)]
+   [Display(Name = "Student Name")]
+
+   public string Name { get; set; }
+   [MaxLength(3),MinLength(1)]
+   [Required(ErrorMessage = "Please enter marks")]
+
+   publicint Marks { get; set; }
+   [DataType(DataType.EmailAddress)]
+   [Required(ErrorMessage = "Please enter Email ID")]
+   [RegularExpression(@"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$", ErrorMessage = "Email is not valid.")]
+
+   public string Email { get; set; }
+   [Required(ErrorMessage = "Please enter department")]
+
+   public string Department { get; set; }
+   [Required(ErrorMessage = "Please enter Mobile No")]
+   [Display(Name = "Contact Number")]
+   [DataType(DataType.PhoneNumber)]
+   public int Mobile { get; set; }
+}
+sql code
+create database info 
+use info 
+create table information(
+Id int not null identity(1,1) primary key,
+Name nvarchar(50),
+Marks int,
+
+Email nvarchar(50),
+Department nvarchar(50),
+contact int 
+
+)
+insert into information values('demo','50','a@gmail.com','it','45630')
+select * from information
