@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Security;
 
 namespace Lecture12Authentication_and_Authorization.Controllers
 {
@@ -51,23 +52,41 @@ namespace Lecture12Authentication_and_Authorization.Controllers
                && a.CurrentPassword.Equals(model.CurrentPassword)).SingleOrDefault();
             if (s != null)
             {
-               return RedirectToAction("userDashboard");
+                //object type
+                //HttpCookie hc1 = new HttpCookie("userid", s.Id.ToString());
+                //Response.Cookies.Add(hc1);
+
+                //HttpCookie hc2 = new HttpCookie("email", s.Email.ToString());
+                //Response.Cookies.Add(hc2);
+
+
+                //keyvalue
+                //Response.Cookies["email"].Value = s.Email.ToString();
+                //Response.Cookies["userid"].Value = s.Id.ToString();
+
+
+
+                HttpCookie hc1 = new HttpCookie("userid", s.Id.ToString());
+                hc1.Expires = DateTime.Now.AddSeconds(10);
+                Response.Cookies.Add(hc1);
+                HttpCookie hc2 = new HttpCookie("email", s.Email.ToString());
+                hc2.Expires = DateTime.Now.AddSeconds(10);
+                Response.Cookies.Add(hc2);
+
+                return RedirectToAction("userDashboard");
             }
-      
+                  return View();       
 
 
 
 
-                return View();
+               
 
 
 
 
           
         }
-
-
-
 
 
         public ActionResult userDashboard()
@@ -77,6 +96,12 @@ namespace Lecture12Authentication_and_Authorization.Controllers
 
 
 
+        public ActionResult Logout()
+        {
+
+            FormsAuthentication.SignOut();
+            return RedirectToAction("Login");
+        }
 
 
 

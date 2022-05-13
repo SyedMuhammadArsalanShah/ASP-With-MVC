@@ -6,3 +6,11 @@
 
 <h2>userDashboard</h2>
 
+@if(Request.Cookies != null)
+{
+
+<h1>welcome @Request.Cookies["email"].Value.ToString()</h1>
+
+
+}
+
