@@ -66,26 +66,29 @@ namespace Lecture12Authentication_and_Authorization.Controllers
 
 
 
-                HttpCookie hc1 = new HttpCookie("userid", s.Id.ToString());
-                hc1.Expires = DateTime.Now.AddSeconds(10);
-                Response.Cookies.Add(hc1);
-                HttpCookie hc2 = new HttpCookie("email", s.Email.ToString());
-                hc2.Expires = DateTime.Now.AddSeconds(10);
-                Response.Cookies.Add(hc2);
+                //HttpCookie hc1 = new HttpCookie("userid", s.Id.ToString());
+                //hc1.Expires = DateTime.Now.AddSeconds(10);
+                //Response.Cookies.Add(hc1);
+                //HttpCookie hc2 = new HttpCookie("email", s.Email.ToString());
+                //hc2.Expires = DateTime.Now.AddSeconds(10);
+                //Response.Cookies.Add(hc2);
+                
+
+
+                Session["UserID"] = s.Id.ToString();
+                Session["UserEmail"] = s.Email.ToString();
+
+
+
+
+
+
+
 
                 return RedirectToAction("userDashboard");
             }
                   return View();       
 
-
-
-
-               
-
-
-
-
-          
         }
 
 
@@ -98,7 +101,7 @@ namespace Lecture12Authentication_and_Authorization.Controllers
 
         public ActionResult Logout()
         {
-
+            Session.Abandon();
             FormsAuthentication.SignOut();
             return RedirectToAction("Login");
         }
