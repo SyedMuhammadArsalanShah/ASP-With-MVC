@@ -72,7 +72,7 @@ namespace Lecture12Authentication_and_Authorization.Controllers
                 //HttpCookie hc2 = new HttpCookie("email", s.Email.ToString());
                 //hc2.Expires = DateTime.Now.AddSeconds(10);
                 //Response.Cookies.Add(hc2);
-                
+
 
 
                 Session["UserID"] = s.Id.ToString();

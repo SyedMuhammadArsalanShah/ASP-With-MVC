@@ -1,23 +1,30 @@
 ﻿@model Lecture12Authentication_and_Authorization.Models.Signup
 
 @{
-    ViewBag.Title = "userDashboard";
+	ViewBag.Title = "userDashboard";
 }
 
 <h2>userDashboard</h2>
 
-@*@if(Request.Cookies != null)
+@*@if(Request.Cookies["email"] != null)
+	{
+
+	<h1>welcome @Request.Cookies["email"].Value.ToString()</h1>
+
+
+	}*@
+
+@if (Session["UserEmail"] != null)
+{
+	<h1> welcome @Session["UserEmail"].ToString() </h1>
+
+	<h2>@Html.ActionLink("loggout", "logout", User)</h2>
+
+
+}
+else
 {
 
-<h1>welcome @Request.Cookies["email"].Value.ToString()</h1>
-
-
-}*@
-
-@if( Session != null)
-{
-
-<h1>welcome session @Session["UserEmail"].ToString()   </h1>
-
+	Response.Redirect("~/ User / Login");
 
 }
