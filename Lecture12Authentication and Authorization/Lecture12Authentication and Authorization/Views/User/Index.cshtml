@@ -1,0 +1,16 @@
+﻿@model Lecture12Authentication_and_Authorization.Models.Signup
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@if (Session["UserEmail"] != null)
+{
+
+	<h1> welcome @Session["UserEmail"].ToString() </h1>
+}
+else
+{
+	<h2>@Html.ActionLink("login", "login", User)</h2>
+}
