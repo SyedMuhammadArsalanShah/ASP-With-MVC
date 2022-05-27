@@ -1,0 +1,207 @@
+﻿
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<h1> @DateTime.Now.ToLongDateString() </h1>
+
+@{
+
+	var name = DateTime.Now.ToShortTimeString();
+
+
+
+}
+
+<p>@name</p>
+
+
+
+@if (DateTime.IsLeapYear(DateTime.Now.Year))
+{
+
+	<h1> @DateTime.Now.Year is leap year    </h1>
+
+
+
+
+}
+else
+{
+
+	<h1> @DateTime.Now.Year is not leap year    </h1>
+
+
+}
+
+
+
+
+@for (int i = 0; i <= 5; i++)
+{
+
+	@i.ToString() <br />
+
+
+}
+
+
+@{
+	int j = 0;
+}
+@while (j <= 10)
+{
+
+	@j.ToString() <br />
+
+	j++;
+}
+
+
+
+
+
+
+
+@{
+	int jj = 0;
+}
+@do
+{
+	@jj.ToString() <br />
+
+	jj++;
+}
+while (jj <= 10);
+
+
+
+
+@{
+
+	string[] array = { "Junaid Jamshed", "Aamna ", "Fatimah", "Laiba", " Misbah" };
+
+}
+
+
+
+<ol>
+	@foreach (var n in array)
+	{
+
+		<li>
+			@n.ToString() <br />
+		</li>
+
+	}
+</ol>
+
+@{
+	string vowelss = "p";
+	string nam;
+
+}
+@switch (vowelss)
+{
+	case "A":
+	case "a":
+
+		{
+			nam = "its vowel";
+			break;
+
+		}
+
+	case "E":
+	case "e":
+		{
+			nam = "its vowel";
+			break;
+		}
+
+	case "I":
+	case "i":
+		{
+			nam = "its vowel";
+			break;
+		}
+	case "O":
+	case "o":
+		{
+
+
+			nam = "its vowel";
+			break;
+		}
+	case "U":
+	case "u":
+		{
+			nam = "its vowel";
+			break;
+		}
+
+
+	default:
+		{
+			nam = "its not vowel";
+		}
+		break;
+}
+
+
+
+
+@{
+	string vowels = "o";
+	string nam1;
+
+}
+@switch (vowels)
+{
+	case "A":
+	case "a":
+	case "E":
+	case "e":
+	case "I":
+	case "i":
+	case "O":
+	case "o":
+	case "U":
+	case "u":
+		{
+			nam1 = "its vowel";
+			break;
+
+		}
+
+	default:
+		{
+			nam1 = "its not vowel";
+		}
+		break;
+}
+
+<p>@nam</p>
+
+<p>@nam1</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
