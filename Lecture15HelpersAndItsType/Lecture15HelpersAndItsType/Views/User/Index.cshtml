@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@helper inlinehelper(string[] numbers){
+
+<ol>
+ @foreach(string n in numbers) {
+
+
+	 <li>@n</li>
+
+
+ }
+
+
+
+</ol>
+
+
+}
+@inlinehelper(new string[] { "laibba", "misbah", "j.", "mtj" });
