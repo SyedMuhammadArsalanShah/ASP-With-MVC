@@ -8,7 +8,7 @@ namespace Lecture15HelpersAndItsType.Models
     public class Info
     {
 
-        public string misbah { get; set; }
+        public string laiba { get; set; }
         public string Name { get; set; }
         public string Gender { get; set; }
         public string City { get; set; }
