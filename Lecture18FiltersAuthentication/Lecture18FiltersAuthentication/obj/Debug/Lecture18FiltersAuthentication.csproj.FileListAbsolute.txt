@@ -1,0 +1,152 @@
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.csprojAssemblyReference.cache
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Lecture18FiltersAuthentication.dll.config
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Lecture18FiltersAuthentication.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Lecture18FiltersAuthentication.pdb
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csc.exe
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csc.exe.config
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csc.rsp
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csi.exe
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csi.exe.config
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csi.rsp
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.AppContext.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Console.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Claims.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\vbc.exe
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\vbc.exe.config
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\vbc.rsp
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Antlr3.Runtime.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Helpers.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Mvc.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Optimization.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Razor.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Razor.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\WebGrease.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Helpers.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Mvc.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Optimization.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Razor.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Razor.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Antlr3.Runtime.pdb
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.csproj.CopyComplete
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.dll
+C:\Users\DANISH LAPTOP\source\repos\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.pdb
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Lecture18FiltersAuthentication.dll.config
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Lecture18FiltersAuthentication.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Lecture18FiltersAuthentication.pdb
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csc.exe
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csc.exe.config
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csc.rsp
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csi.exe
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csi.exe.config
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\csi.rsp
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.AppContext.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Console.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.Compression.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.IO.Pipes.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Claims.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.ValueTuple.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.XPath.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\vbc.exe
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\vbc.exe.config
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\vbc.rsp
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\VBCSCompiler.exe
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Antlr3.Runtime.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Newtonsoft.Json.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Helpers.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Mvc.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Optimization.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Razor.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Deployment.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Razor.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\WebGrease.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Helpers.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Mvc.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Optimization.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.Razor.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Deployment.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\System.Web.WebPages.Razor.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Newtonsoft.Json.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Antlr3.Runtime.pdb
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.csprojAssemblyReference.cache
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.csproj.CoreCompileInputs.cache
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.csproj.CopyComplete
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.dll
+D:\ASP-With-MVC\Lecture18FiltersAuthentication\Lecture18FiltersAuthentication\obj\Debug\Lecture18FiltersAuthentication.pdb
