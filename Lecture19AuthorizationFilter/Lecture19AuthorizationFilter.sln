@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture19AuthorizationFilter", "Lecture19AuthorizationFilter\Lecture19AuthorizationFilter.csproj", "{62CEABAD-66A1-442B-A4DA-B1EF33FF4F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62CEABAD-66A1-442B-A4DA-B1EF33FF4F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CEABAD-66A1-442B-A4DA-B1EF33FF4F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CEABAD-66A1-442B-A4DA-B1EF33FF4F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CEABAD-66A1-442B-A4DA-B1EF33FF4F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0DDBC5-C50D-4E6A-BF12-7E2E69598A8E}
+	EndGlobalSection
+EndGlobal
