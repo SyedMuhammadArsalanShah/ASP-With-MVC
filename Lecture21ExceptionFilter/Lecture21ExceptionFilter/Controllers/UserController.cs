@@ -13,16 +13,13 @@ namespace Lecture21ExceptionFilter.Controllers
     {
         // GET: User
 
-            [ExFilter]
+        [ExFilter]
         public ActionResult Index()
         {
 
-            int[] abc = new int[10];
-            abc[100] = 50;
 
 
-
-            return View(abc[100]);
+            return View();
         }
     }
 }
