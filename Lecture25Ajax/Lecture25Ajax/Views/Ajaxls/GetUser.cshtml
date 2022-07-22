@@ -1,0 +1,39 @@
+﻿@model string
+
+@{
+    ViewBag.Title = "GetUser";
+
+    AjaxOptions ajaxOptions = new AjaxOptions
+    {
+
+        UpdateTargetId = "tableBody"
+
+    };
+
+}
+    <table>
+
+
+        <tbody id="tableBody">
+
+            @Html.Action("GetUserData",new { selectedrole=Model})
+
+
+
+        </tbody>
+
+    </table>
+
+    @using (Ajax.BeginForm("GetUser",ajaxOptions)) { 
+
+    <div>
+        @Html.DropDownList("selectedrole", new SelectList(new[] { "All" }.Concat(Enum.GetNames(typeof(Lecture25Ajax.Models.Role)))));
+        <button type="submit">Search</button>
+
+
+    </div>
+
+}
+
+<h2>GetUser</h2>
+
