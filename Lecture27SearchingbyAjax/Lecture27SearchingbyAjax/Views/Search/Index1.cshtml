@@ -1,0 +1,42 @@
+﻿@model Lecture27SearchingbyAjax.Models.info
+
+@{
+    ViewBag.Title = "Index1";
+}
+
+<h2>Index1</h2>
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+
+@Ajax.ActionLink("All", "All",
+    new AjaxOptions
+    {
+        HttpMethod = "GET",
+
+
+
+        UpdateTargetId = "divtbl",
+
+
+
+        InsertionMode = InsertionMode.Replace,
+    })
+
+
+
+
+
+<div id="divtbl">
+
+
+
+
+
+
+
+
+</div>
+

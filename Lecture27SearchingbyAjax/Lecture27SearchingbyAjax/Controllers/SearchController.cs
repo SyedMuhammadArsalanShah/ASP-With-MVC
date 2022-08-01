@@ -24,11 +24,19 @@ namespace Lecture27SearchingbyAjax.Controllers
             return PartialView(data);
         }
 
+        public ActionResult Index1()
+        {
+            return View();
+        }
 
 
 
+        public PartialViewResult All()
+        {
+            List<info> data = obj.infoes.ToList();
 
-
+            return PartialView("Infodata",data);
+        }
 
 
 
