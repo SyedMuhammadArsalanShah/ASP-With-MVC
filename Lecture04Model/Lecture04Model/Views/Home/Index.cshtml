@@ -6,30 +6,60 @@
 
 <h2>Index</h2>
 
+<style>
 
-<table>
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
 
-	<thead>
-		<tr>
-			<th>ID</th>
-			<th>Name</th>
-			<th>Age</th>
-			<th>Contact</th>
-		</tr>
+        #customers td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
 
-	</thead>
+        #customers tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
 
-	<tbody>
-		<tr>
-			 
-			<td  >@Model.id</td>
-			<td>@Model.name</td>
-			<td>@Model.age</td>
-			<td>@Model.contact</td>
-		
-		</tr>
+        #customers tr:hover {
+            background-color: #ddd;
+        }
 
-	</tbody>
+        #customers th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+</style>
+<h2>Students Info</h2>
+
+<table border="1" id="customers">
+
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Contact</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        <tr>
+
+            <td>@Model.id</td>
+            <td>@Model.name</td>
+            <td>@Model.age</td>
+            <td>@Model.contact</td>
+
+        </tr>
+
+    </tbody>
 
 </table>
 

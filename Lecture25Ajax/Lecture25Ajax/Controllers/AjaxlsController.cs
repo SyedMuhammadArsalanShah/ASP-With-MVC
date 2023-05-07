@@ -16,8 +16,7 @@ namespace Lecture25Ajax.Controllers
             return View();
         }
         private readonly LateStudents[] lateStudents =
-            {
-            new LateStudents{firstName="LaibaRazi" , lastName="Khan" , birthday = new DateTime(2002,11,6),role =Role.bohtachybachy},
+        {   new LateStudents{firstName="LaibaRazi" , lastName="Khan" , birthday = new DateTime(2002,11,6),role =Role.bohtachybachy},
             new LateStudents{firstName="Misbah" , lastName="Iqbal" , birthday = new DateTime(2001,3,10),role =Role.bohtachybachy},
             new LateStudents{firstName="Affan" , lastName="Zeeshan" , birthday = new DateTime(2002,11,28),role =Role.Senior},
             new LateStudents{firstName="Ahsan" , lastName="nasir" , birthday = new DateTime(2002,11,28),role =Role.farigh},

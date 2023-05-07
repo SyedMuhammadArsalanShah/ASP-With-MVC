@@ -35,20 +35,16 @@ namespace Lecture23ImageUploading.Controllers
             string extension = Path.GetExtension(file.FileName);
             string path = Path.Combine(Server.MapPath("~/images/"),_filename);
             mi.img = "~/images/" + _filename;
-            if (extension.ToLower()==".jpg" || extension.ToLower() == ".jpeg"|| extension.ToLower() == ".png")
-            {
-                if(file.ContentLength <= 1000000)
-                {
-                    db.img_table.Add(mi);
+            if (extension.ToLower()==".jpg" || extension.ToLower() == ".jpeg"||
+                extension.ToLower() == ".png")
+            { if(file.ContentLength <= 1000000)
+                {    db.img_table.Add(mi);
                     if(db.SaveChanges()>=0)
                     {
                         file.SaveAs(path);
                         ViewBag.msg = "Record Added";
                         ModelState.Clear();
-
                     }
-
-
                 }
                 else
                 {

@@ -73,7 +73,16 @@ namespace Lecture03ViewBagViewDataTempData.Controllers
 
             };
 
-            return RedirectToAction("About");
+            if (TempData["Name"] == "Ammarah Asif")
+            {
+                return RedirectToAction("About");
+            }
+            else
+            {
+
+                return View();
+            }
+
         }
 
 

@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<input type="button" name="name" id="btn" value="Click To see api data"/>
+
+<div id="values"> </div>
+
+
+
+<script>
+
+    // syntax of  jquery 
+    //$('selector').action()
+    //by element ,by  class name, by id name
+
+    $(document).ready(function () {
+
+
+        $("#btn").click(function ()
+        {
+            $("#values").empty();
+            $.getJSON("/api/Result/", function (data) {
+
+
+                $("<li>" + JSON.stringify(data) + "</li>").appendTo($("#values"));
+            });
+
+
+
+
+
+        });
+
+
+
+
+
+    });
+
+
+
+
+</script>
+
+
+
